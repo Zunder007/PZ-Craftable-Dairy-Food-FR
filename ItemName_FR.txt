@@ -1,0 +1,15 @@
+ItemName_FR = {
+	ItemName_SKL.DairyCookingMag = "Magazine de la Bonne Cuisine",
+	ItemName_SKL.Strainer = "Passoire",
+	ItemName_SKL.PowderedMilk = "Lait en poudre",
+	ItemName_SKL.MilkJar = "Lait en Pot",
+	ItemName_SKL.MilkWaterBottle = "Bouteille de Lait Remplie d'Eau",
+	ItemName_SKL.MilkPopBottle = "Bouteille de Lait Pop",
+	ItemName_SKL.CheesePrep = "Préparation pour Fromage",
+	ItemName_SKL.YogurtCulture = "Culture pour Yaourt",
+	ItemName_SKL.YogurtPrep = "Préparation pour Yaourt",
+	ItemName_SKL.YogurtJar = "Pot de Yaourt",
+	ItemName_SKL.YogurtBowl = "Bol de Yaourt",
+	ItemName_SKL.Butter = "Beurre",
+	ItemName_SKL.Yoghurt = "Yaourt",
+}
